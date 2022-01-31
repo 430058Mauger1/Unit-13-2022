@@ -70,6 +70,8 @@ weight 400-600
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Corinthia&display=swap" rel="stylesheet">
 
+website used for phones https://www.techradar.com/uk/news/best-phone
+
 ## website two
 for website two, i will use Be Vietnam Pro because it is a Neo Grotesk which is well suited to tech companies. i got it from google fonts.
 
@@ -82,4 +84,18 @@ weight 400-600
 ## storyboard
 
 ## asset list
+
+## navigation
+|   |  Home|   Phone|   Sims|  Accessories | Phone individual  | accessories individual  | sims individual  | help   | About us  | Contact us  |   |   |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Home |  &check; | &check;  | &check;  | &check;  |  &check; | &check;  | &check;  | &check;  |   &check;| &check;  |   |   |
+|  Phone | &check;  | &check;   | X  | X  | &check;  |  X | X  | X  | X  | X  |   |   |
+|  Sims | &check;  | X  |  &check; | X | X  |  X | &check;  | X  | X  | X  |   |   |
+| Accessories  | &check;  | X  | X  | &check;  |  X |  &check; |  X | X  | X  | X  |   |   |
+|  Phone individual | &check;  |  &check; | X  | X  | &check;  | X  | X  | X  | X  |  X |  |   |
+|accessories individual  | &check;  |  X |  X|  &check; |  X|&check; |  X |  X |  X | X  |   |   |
+| sims individual  | &check;  |  X |  &check; |  X | X  | X  |  &check; |  X |  X|  X|   |   |
+|  help | &check;  |   |   |   |   |   |   |   |   |   |   |   |
+|  About us |  &check; |   |   |   |   |   |   |   |   |   |   |   |
+| Contact us  | &check;  |   |   |   |   |   |   |   |   |   |   |   |
 
