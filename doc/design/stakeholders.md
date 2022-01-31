@@ -95,7 +95,7 @@ weight 400-600
 |  Phone individual | &check;  |  &check; | X  | X  | &check;  | X  | X  | X  | X  |  X |  |   |
 |accessories individual  | &check;  |  X |  X|  &check; |  X|&check; |  X |  X |  X | X  |   |   |
 | sims individual  | &check;  |  X |  &check; |  X | X  | X  |  &check; |  X |  X|  X|   |   |
-|  help | &check;  |   |   |   |   |   |   |   |   |   |   |   |
-|  About us |  &check; |   |   |   |   |   |   |   |   |   |   |   |
-| Contact us  | &check;  |   |   |   |   |   |   |   |   |   |   |   |
+|  help | &check;  |  X |  X |  X |  X |  X |  X |  X | X  |  X |   |   |
+|  About us |  &check; |   X|  X | X  | X  | X  |   | X  |   X|  X |   |   |
+| Contact us  | &check;  |   X| X  | X  | X  |X   | X  | X  |  X |  X |   |   |
 
