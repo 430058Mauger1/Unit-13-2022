@@ -82,6 +82,30 @@ weight 400-600
 
 
 ## storyboard
+# Home page 
+![image](storyboard..JPG)
+There are five phones in the bar altogether.
+
+
+
+
+
+
+
+
+
+
+# images
+Samsung Galaxy s21 ultra https://www.gizmochina.com/wp-content/uploads/2020/12/Samsung-Galaxy-S21-Ultra-Phantom-Black-Render-Leak.jpg
+
+iphone 13 pro max https://www.bing.com/images/search?view=detailV2&ccid=ZjesfJxL&id=3ABBA359217D3CD1BF77F96752A8874E2918A1B6&thid=OIP.ZjesfJxLVl7fc7rGdEPyOAHaHa&mediaurl=https%3a%2f%2fi.expansys.net%2fimg%2fb%2f361875%2fapple-iphone-13-pro-max.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6637ac7c9c4b565edf73bac67443f238%3frik%3dtqEYKU6HqFJn%252bQ%26pid%3dImgRaw%26r%3d0&exph=687&expw=687&q=iphone+13+pro+max&simid=608026099265468948&FORM=IRPRST&ck=4E4816C1A907E57B26E785D552D506F7&selectedIndex=8
+
+oneplus 9 pro https://www.bing.com/images/search?view=detailV2&ccid=l%2bEBXOKe&id=7195C78FEE7C5346E5F1001D45048CBBDA205AD6&thid=OIP.l-EBXOKeWaI_Ky8LmJ_q_QHaHa&mediaurl=https%3a%2f%2fspecifications-pro.com%2fwp-content%2fuploads%2f2020%2f10%2fOnePlus-9-Pro-2.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.97e1015ce29e59a23f2b2f0b989feafd%3frik%3d1log2ruMBEUdAA%26pid%3dImgRaw%26r%3d0&exph=1080&expw=1080&q=oneplus+9+pro&simid=608023522281659334&FORM=IRPRST&ck=C2228EAA735BE8B15C69F1E87D052002&selectedIndex=4
+
+iphone 13 https://www.bing.com/images/blob?bcid=RC3BMFrr9csDUQ
+
+
+
 
 ## asset list
 
