@@ -54,7 +54,7 @@ needs a table
 
 needs 7 pages
 
-contrast cannot go blow 2
+contrast cannot go below 2
 
 no more than 2 fonts
 
