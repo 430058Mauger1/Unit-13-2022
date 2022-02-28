@@ -104,6 +104,8 @@ oneplus 9 pro https://www.bing.com/images/search?view=detailV2&ccid=l%2bEBXOKe&i
 
 iphone 13 https://www.bing.com/images/blob?bcid=RC3BMFrr9csDUQ
 
+samsung galaxy s21 https://www.google.com/aclk?sa=l&ai=DChcSEwi1iO7ooaL2AhV-j2gJHc4HBb0YABARGgJ3Zg&sig=AOD64_27oEuVuY_KeAZ5EE9zwPlTecWf9g&adurl&ctype=5&ved=2ahUKEwi8s-PooaL2AhUa7xoKHZ7GBjIQvhd6BAgBEGs
+
 
 
 
