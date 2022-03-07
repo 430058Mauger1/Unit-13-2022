@@ -2,6 +2,9 @@
 
 <HTML>
     <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@599&display=swap" rel="stylesheet">
         <style>
             .header { 
                 width: 640px; height: 140px; display: flex;
@@ -11,8 +14,17 @@
             }
 
             .logo { height: 110px; width: 640px;  
-              justify-content: flex-start;
+                justify-content: left;
+                position: relative; bottom: 20px;
+                Right: 80px;
 
+            }
+            .name {
+                font-family: 'Open Sans', sans-serif;
+                z-index: 3;
+                position: relative; bottom: 100px;
+                left: 200px;
+                
             }
             #logopic {height: 170px; width: 300px;
 
@@ -20,26 +32,73 @@
 
             .searchbox{ background-color: #000b3a;
                 width: 640px; height: 130px;
+                position: relative; bottom: 16px;
             }
-            .searchbar { background-color: #008888;
+            .searchbar { 
+                background-color: #008888;
                 z-index: 3; justify-content: center;
+                width: 550px; height: 50px;
+                position: relative;
+                left: 45px;
+                top: 40px;
+                font-family: 'Open Sans', sans-serif;
+
 
             }
+            .button {width: 100px; height: 50px;
+                position: relative; left: 450px;
+                background-color: #006d6d;
+
+            }
+
+            #search {height: 50px; width: 50px;
+                position: relative;
+                left: 30px
+
+            }
+            .phonebox { 
+                display: flex;
+                height: 235px; width: 640px;
+                background-color: #008888;
+                position: relative;
+                bottom: 16px;
+                justify-content: space-evenly;
+            }
+            #SamG21u{
+                width: 180; height: 180px;
+            }
+            #Ip13pm{
+                 width: 180; height: 180px;
+            }
+            #Op9p{
+                width: 180; height: 180px;
+            }
+
+            
 
 
         </style>
 
-        <Div class="header">
-            <div class="logo">
-                <img id="logopic" src="./logo.jpg" alt="logo">
-            </div>
-        </div>
+       
 
 
     </head>
     <body>
+        <Div class="header">
+            <div class="logo">
+                <img id="logopic" src="./logo.jpg" alt="logo">
+                <p class="name" style="color:white;">Bell Phones</p>
+            </div>
+        </div>
         <div class="searchbox">
-            <div class="searchbar">search bar</div>
+            <div class="searchbar"><p style="color:white;"></p><div class="button"><img id="search" src="Search icon.png" alt="search icon"></img>
+            </div></div>
+        </div>
+        <div class="phonebox">
+            <div class="firstphone"><img id="SamG21u" src="./SGS21U.png" alt="Samsung Galaxy S21 Ultra"></div>
+            <div class="secondbox"><img id="Ip13pm" src="./IP13pM.png" alt="Ihone 13 Pro Max"></div>
+            <div class="thirdbox"><img id="Op9p" src="./OP9P.png" alt=" Oneplus 9 pro"> Oneplus 9 Pro</div>
+
         </div>
 
 

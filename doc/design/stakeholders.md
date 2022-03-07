@@ -64,7 +64,6 @@ no more than 2 fonts
 i will use open sans because it was optimized for print, web, and mobile interfaces.
 i got it from google fonts.
 
-weight 400-600
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
