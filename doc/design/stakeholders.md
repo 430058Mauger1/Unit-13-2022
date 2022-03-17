@@ -51,12 +51,14 @@ i decided to use this colour because i have seen many websites use it.
 needs a youtube link
 needs a table
   + could have a table showing recomended phones or best rated phones.
+  + table showing the phone and a youtube video showing how to factory reset itself.
 
 needs 7 pages
 
 contrast cannot go below 2
 
 no more than 2 fonts
+
 
 ## fonts
 ## website one
@@ -104,6 +106,14 @@ oneplus 9 pro https://www.bing.com/images/search?view=detailV2&ccid=l%2bEBXOKe&i
 iphone 13 https://www.bing.com/images/blob?bcid=RC3BMFrr9csDUQ
 
 samsung galaxy s21 https://www.google.com/aclk?sa=l&ai=DChcSEwi1iO7ooaL2AhV-j2gJHc4HBb0YABARGgJ3Zg&sig=AOD64_27oEuVuY_KeAZ5EE9zwPlTecWf9g&adurl&ctype=5&ved=2ahUKEwi8s-PooaL2AhUa7xoKHZ7GBjIQvhd6BAgBEGs
+
+xiaomi mi 11- https://th.bing.com/th/id/OIP.L8I3v-zKdeEQc1Ohs12adQAAAA?pid=ImgDet&rs=1
+
+samsung Galaxy S21 plus- https://th.bing.com/th/id/OIP.JAhAlNGPBdHKBgBpsuEpwgAAAA?pid=ImgDet&rs=1
+
+google pixel 6 pro https://www.91-cdn.com/pricebaba-blogimages/wp-content/uploads/2021/05/Pixel-6-Pro.jpeg
+
+
 
 
 

@@ -1,0 +1,16 @@
+.top{
+    width: 640px; height: 100px;
+    background-image: linear-gradient(#000b3a, #008888);
+}
+.title{
+    color: white;
+    font-family:'Open Sans', sans-serif;
+    display: flex;
+    justify-content: center;
+;
+
+}
+
+
+
+

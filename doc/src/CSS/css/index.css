@@ -1,0 +1,122 @@
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+p{
+    margin:0;
+    padding:0;
+}
+.header { 
+    width: 100%; height: 195px; display: flex;
+    background-image: linear-gradient(#000b3a, #008888);
+}
+
+.logo { height: 120px; width: 120px;  
+    justify-content: left;
+    position: relative;
+    Right: 70px;
+
+}
+.name {
+    font-family: 'Open Sans', sans-serif;
+    position: relative;
+    bottom: 150px;
+    left: 270px;
+    font-size: larger;
+    font-weight: 300;
+
+    
+}
+#logopic {height: 230px; width: 400px;
+position: relative;
+bottom: 15px;
+}
+
+.searchbox{ background-color: #000b3a;
+    width: 100%; height: 195px;
+    position: relative;
+    display:flex;
+    justify-content: center;
+}
+.searchbar { 
+    background-color: #008888;
+    width: 1450px; height: 70px;
+    font-family: 'Open Sans', sans-serif;
+    position: relative;
+    top: 70px;
+
+
+
+}
+.button {width: 100px; height: 70px;
+    position: relative; left: 1350px;
+    bottom:16px;
+    background-color: #006d6d;
+   
+
+
+}
+
+#search {height: 60px; width: 60px;
+    position: relative;
+    left: 25px;
+    top: 7px;
+
+}
+.phonebox { 
+    display: flex;
+    height: 300px; width: 100%;
+    background-color: #008888;
+    position: relative;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#SamG21u{
+    width: 180; height: 180px; 
+}
+#Ip13pm{
+    width: 180; height: 180px;
+}
+#Op9p{
+    width: 180; height: 180px;
+}
+.firstbox{
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: small;
+
+    
+
+}
+.secondbox{
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: small;
+
+}
+.thirdbox{
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: small;
+    
+
+}
+.icons{
+    width: 1920px; height: 250px;
+    background-color: #006d6d;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    bottom: px;
+}
+.bottom {height: 140px; width: 100%;
+    background-color: #000b3a;
+    position: relative;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
