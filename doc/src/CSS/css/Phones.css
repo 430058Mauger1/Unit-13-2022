@@ -34,10 +34,8 @@ b{ padding: 0;
    
 }
 .logo{
-    width: 20%%;
-    height: 100%;
-    padding: 20px 20px 20px 20px;
-}
+    width: 200px;
+    height: 200px;}
 .title{
     color: white;
     font-family:'Open Sans', sans-serif;
@@ -46,7 +44,7 @@ b{ padding: 0;
 }
 
 #titletext{
-    font-size: 2.5vw;}
+    font-size: 30px;}
 
 .Phones{
     width: 100%; height: 760px;
@@ -75,30 +73,28 @@ b{ padding: 0;
 }
 
 
-.SGs21U{width: 80%; height: auto; 
-    position: absolute;   
-
+.SGs21U{width: 50%; height: auto; position: absolute;   
 }
-.IP13PM{width: 70%; height: auto;   position: absolute; 
+.IP13PM{width: 50%; height: auto;   position: absolute; 
 }
-.OP9P{width: 70%; height: auto;    position: absolute;
+.OP9P{width: 50%; height: auto;    position: absolute;
 }
-.SGs21{width: 70%; height: auto;     position: absolute;
+.SGs21{width: 50%; height: auto;     position: absolute;
 }
-.Ip13{width: 70%; height: auto;   position: absolute;  
+.Ip13{width: 50%; height: auto;   position: absolute;  
 }
-.XM11{width: 70%; height: auto;    position: absolute; 
+.XM11{width: 50%; height: auto;    position: absolute; 
 }
-.OFX3P{width: 70%; height: auto;  position: absolute;
+.OFX3P{width: 50%; height: auto;  position: absolute;
 }
-.SGs21plus{width: 70%; height: auto;  position: absolute;  
+.SGs21plus{width: 50%; height: auto;  position: absolute;  
 }
 
 .box1{
     display: flex;
     background-color: #00125e;
     position: relative;
-    height: 80%; width: 15%;
+    height: 80%; width: 20%;
     align-items: center;
     justify-content: space-around;
     color: white;
@@ -109,43 +105,43 @@ b{ padding: 0;
 .box2{display: flex;
     background-color: #00125e;
     position: relative;
-    justify-content: center; align-items: center;height: 80%; width: 15%; color: white;
+    justify-content: center; align-items: center;height: 80%; width: 20%; color: white;
     font-family: 'Open Sans', sans-serif; flex-wrap: wrap;border-radius: 25px;
 }
 .box3{display: flex;
     background-color: #00125e;
     position: relative;
-    justify-content: center;align-items: center;height: 80%; width: 15%;color: white;
+    justify-content: center;align-items: center;height: 80%; width: 20%;color: white;
     font-family: 'Open Sans', sans-serif; flex-wrap: wrap;border-radius: 25px;
 }
 .box4{display: flex;
     background-color: #00125e;
     position: relative;
-    justify-content: center; align-items: center;height: 80%; width: 15%; color: white;
+    justify-content: center; align-items: center;height: 80%; width: 20%; color: white;
     font-family: 'Open Sans', sans-serif; flex-wrap: wrap;border-radius: 25px;
 }
 .box5{display: flex;
     background-color: #00125e;
     position: relative;
-    justify-content: center;align-items: center;height: 80%; width: 15%;color: white;
+    justify-content: center;align-items: center;height: 80%; width: 20%;color: white;
     font-family: 'Open Sans', sans-serif; flex-wrap: wrap;border-radius: 25px;
 }
 .box6{display: flex;
     background-color: #00125e;
     position: relative;
-    justify-content: center;align-items: center;height: 80%; width: 15%;color: white;
+    justify-content: center;align-items: center;height: 80%; width: 20%;color: white;
     font-family: 'Open Sans', sans-serif; flex-wrap: wrap;border-radius: 25px;
 }
 .box7{display: flex;
     background-color: #00125e;
     position: relative;
-    justify-content: center; align-items: center;height: 80%; width: 15%; color: white;
+    justify-content: center; align-items: center;height: 80%; width: 20%; color: white;
     font-family: 'Open Sans', sans-serif; flex-wrap: wrap;border-radius: 25px;
 }
 .box8{display: flex;
     background-color: #00125e;
     position: relative;
-    justify-content: center; align-items: center;height: 80%; width: 15%;color: white;
+    justify-content: center; align-items: center;height: 80%; width: 20%;color: white;
     font-family: 'Open Sans', sans-serif; flex-wrap: wrap;border-radius: 25px;
 }
 .bottom{

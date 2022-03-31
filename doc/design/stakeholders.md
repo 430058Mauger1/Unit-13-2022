@@ -113,11 +113,6 @@ samsung Galaxy S21 plus- https://th.bing.com/th/id/OIP.JAhAlNGPBdHKBgBpsuEpwgAAA
 
 google pixel 6 pro https://www.91-cdn.com/pricebaba-blogimages/wp-content/uploads/2021/05/Pixel-6-Pro.jpeg
 
-
-
-
-
-
 ## asset list
 
 ## navigation
