@@ -12,6 +12,7 @@ body{
     align-items: flex-end;
 
 }
+
 a:link{
     text-decoration: none;
     color: white;
@@ -80,10 +81,10 @@ b{ padding: 0;
 .box1{
     display: flex;
     background-color: #00125e;
-    position: relative;
     height: 80%; width: 15%;
+    position: relative;
     align-items: center;
-    justify-content: space-around;
+    justify-content: center;
     color: white;
     font-family: 'Open Sans', sans-serif;
     flex-wrap: wrap;
@@ -139,5 +140,30 @@ b{ padding: 0;
     justify-content: center;
 }
 #home{
-    width: 90px; height: 90px;
+    width: 90px; height: 90px;}
+
+.IP13case{
+    width: 50%; height: auto; position: absolute;
     
+}
+.SGS21case{
+    width: 50%; height: auto; position: absolute;
+
+}
+.XM11case{
+    width: 90%; height: auto; position: absolute;
+}
+.OP9Pcase{
+    width: 50%; height: auto; position: absolute;
+}
+.oppocase{width: 50%; height: auto; position: absolute;}
+.SGS21UCASE{
+    width: 90%; height: auto; position: absolute;
+}
+.sgs21pluscase{
+    width: 90%; height: auto; position: absolute;
+
+}
+.iphone13promaxcase{
+    width: 60%; height: auto; position: absolute;
+}
