@@ -46,8 +46,8 @@ Color Palette by Paletton.com
 
 I decided to use this colour for the alternate website design because I noticed some of the websites I was referencing used it like tesco mobile.
 
-# fonts
-## website one
+# Fonts
+## Website one
 for website one i have decided to use the Open Sans font because it was optimised for web layouts and mobile interfaces 
 i found it on google fonts
 ![image](opensansfont.png)
@@ -59,7 +59,7 @@ i found it on google fonts
 
 website used for phones https://www.techradar.com/uk/news/best-phone
 
-## website two
+## Website two
 for website two, i will use Be Vietnam Pro because it is a Neo Grotesk which is well suited to tech companies. i got it from google fonts.
 
 ![image](bevietnamprofont.png)
@@ -73,16 +73,16 @@ for website two, i will use Be Vietnam Pro because it is a Neo Grotesk which is 
 ## Home page 
 ![image](indexstoryboard.PNG)
 
-## individual phones
+## Individual Phones
 ![image](individualphonestoryboard.PNG)
-## individual accessories 
+## Individual Accessories 
 ![image](individualaccessoriesstoryboard.PNG)
-## accessories and phone page storyboard
+## Accessories and phone page storyboard
 ![image](phonesandaccessoriespage.PNG)
-both the accessories and phone page use the same storyboard.
-# alternate design
+The accessories and phone page both use the same storyboard.
+# Alternate Design
 ![image](alternatestoryboard.PNG)
-I did not use this design because the owners said that it did not have as much detail or as many features as the first design.
+I did not use this design because the owners said it did not have enough detail and that it could have used more features.
 
 
 
@@ -91,26 +91,36 @@ I did not use this design because the owners said that it did not have as much d
 
 
 
-# images
-Samsung Galaxy s21 ultra https://www.gizmochina.com/wp-content/uploads/2020/12/Samsung-Galaxy-S21-Ultra-Phantom-Black-Render-Leak.jpg
 
-iphone 13 pro max
+
+# Asset List
+## phones
+These will be used as phones in my website.
++ Samsung Galaxy s21 ultra https://www.gizmochina.com/wp-content/uploads/2020/
++ 12/Samsung-Galaxy-S21-Ultra-Phantom-Black-Render-Leak.jpg
+
++ iphone 13 pro max
 https://www.expansys.com.au/apple-iphone-13-pro-max-361875/
 
-oneplus 9 pro https://specifications-pro.com/en/oneplus-9-pro/
++ oneplus 9 pro https://specifications-pro.com/en/oneplus-9-pro/
 
-iphone 13 https://www.bing.com/images/blob?bcid=RC3BMFrr9csDUQ
++ iphone 13 https://www.bing.com/images/blob?bcid=RC3BMFrr9csDU
 
++ samsung galaxy s21 https://www.three.co.uk/samsung/galaxy-s21-5g?colour=phantom%20grey&memory=128&paym=true
 
-samsung galaxy s21 https://www.google.com/aclk?sa=l&ai=DChcSEwi1iO7ooaL2AhV-j2gJHc4HBb0YABARGgJ3Zg&sig=AOD64_27oEuVuY_KeAZ5EE9zwPlTecWf9g&adurl&ctype=5&ved=2ahUKEwi8s-PooaL2AhUa7xoKHZ7GBjIQvhd6BAgBEGs
++ xiaomi mi 11- https://th.bing.com/th/id/OIP.L8I3v-zKdeEQc1Ohs12adQAAAA?pid=ImgDet&rs=1
 
-xiaomi mi 11- https://th.bing.com/th/id/OIP.L8I3v-zKdeEQc1Ohs12adQAAAA?pid=ImgDet&rs=1
-
-samsung Galaxy S21 plus- https://th.bing.com/th/id/OIP.JAhAlNGPBdHKBgBpsuEpwgAAAA?pid=ImgDet&rs=1
-
-google pixel 6 pro https://www.91-cdn.com/pricebaba-blogimages/wp-content/uploads/2021/05/Pixel-6-Pro.jpeg
-
-# asset list
++ samsung Galaxy S21 plus- https://th.bing.com/th/id/OIP.JAhAlNGPBdHKBgBpsuEpwgAAAA?pid=ImgDet&rs=1
++ Oppo Find X3 Pro https://www.amazon.co.uk/Dual-SIM-256GB-Factory-Unlocked-Smartphone-Blue/dp/B08XY4Z6S9
+## Cases
++ Samsung Galaxy S21 Case
++ Samsung Galaxy S21 Ultra Case
++ Samsung Galaxy S21 Plus Case
++ Iphone 13 Case
++ Iphone 13 Pro Max Case https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.apple.com%2Fuk%2Fshop%2Fproduct%2FMM2P3ZM%2FA%2Fiphone-13-pro-max-silicone-case-with-magsafe-clover&psig=AOvVaw2oDBtHKMAmOw9-CDZvygqg&ust=1650969177869000&source=images&cd=vfe&ved=0CAkQjhxqFwoTCLiEp82Br_cCFQAAAAAdAAAAABAJ
++ Oppo Find X3 Pro case https://www.onbuy.com/gb/case-oppo-find-x3-pro-hybrid-washable-fabric-finish-grey~c3340~p40045101/?exta=bingsh&stat=eyJpcCI6IjE2LjkwMDAiLCJkcCI6IjAuMDAwMCIsImxpZCI6NTM3MjM1NzYsInMiOiI5OSIsInQiOjE2NTAwNjY0ODEsImJtYyI6MH0=&exta=bingsh&msclkid=bcc51e912b2019351e5a7ccc6220c7c5&utm_source=bing&utm_medium=cpc&utm_campaign=(GB%3A%20SAD)%20Electronics%20%26%20Technology&utm_term=4575548924564644&utm_content=(GB%3A%20SAD)%20Electronics%20%26%20Technology%20-%2012
++ Xiaomi Mi 11 Case https://www.mytrendyphone.eu/shop/nillkin-camshield-xiaomi-mi-11-case-269327p.html
++ Oneplus 9 PRO Case https://www.spigenstore.com.au/spigen-oneplus-9-pro-tough-armor-2993956
 
 
 
