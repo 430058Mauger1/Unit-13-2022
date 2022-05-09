@@ -136,7 +136,7 @@ https://www.expansys.com.au/apple-iphone-13-pro-max-361875/
 | contact us              |   &#9745;   |    x    |    x         |      x             |     x                   |     x  |       x   |    x        |
 
 # test plan
-to test my website i will make sure all my links, Embeded videos, buttons and interactive features work, to do thi once my website has been completed i will use all interactive features an record the result.
+To test my website i will make sure all my links, Embeded videos, buttons and interactive features work, to do thi once my website has been completed i will use all interactive features an record the result.
 my predicted result will be that everything works as planned.
 
 ## link results
