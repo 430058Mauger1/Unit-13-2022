@@ -155,7 +155,9 @@ My webpage should have a fast and responsive layout that should be clean and qui
 https://sway.office.com/vTypuTavjVAqCoFl?ref=Link
 ![image](./swaypdf.PNG)
 ## website feedback
-Daine: "it looks good, its easy to navigate and its functional overall, there is nothing i would really change however there isnt any back buttons"
+Daine: "It looks good, its easy to navigate and its functional overall, there is nothing I would really change however there isnt any back buttons"
+
+Patryk: I like your colour scheme it fits well together, the font is cool and i like the text colour overall i like the colours and icons used however the phone descriptions are too small and the homepage title is too small"
 
 ## my website review
 The targeted audience for my website are customers who are interested in buying phones and their accessories.
