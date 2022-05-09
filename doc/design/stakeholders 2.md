@@ -136,15 +136,19 @@ https://www.expansys.com.au/apple-iphone-13-pro-max-361875/
 | contact us              |   &#9745;   |    x    |    x         |      x             |     x                   |     x  |       x   |    x        |
 
 # test plan
-to test my website i will make sure all my links, Embeded videos, buttons and interactive features work.
+to test my website i will make sure all my links, Embeded videos, buttons and interactive features work, to do thi once my website has been completed i will use all interactive features an record the result.
 
-##links
+## link results
+I tested every link on the home page all work correctly.
+## search bar and buttons
+
 
 # file structure
 ![image](./FileStructuretop.JPG)
 ![image](./filestructurebottom.PNG)
 # webpage requirments
-My webpage needs 
+My webpage should have a fast and responsive layout that should be clean and quick to load because customers forms their opinions whithin the first few seconds. the Navigation needs to be simple and understandable so customers can easily find what they want It's colour scheme needs to fit well together and with the site. My website also needs a grid and a youtube video.
 # sway
 https://sway.office.com/vTypuTavjVAqCoFl?ref=Link
+
 
