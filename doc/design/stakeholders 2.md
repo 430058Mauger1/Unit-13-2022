@@ -141,11 +141,9 @@ my predicted result will be that everything works as planned.
 
 ## link results
 I tested every link on the home page all work correctly all links to other pages work aswell. all embedded youtube videos work aswell.
-## search bar and buttons
+## search bar
 to test the search bar i will make sure that you can insert text.
 ![image](./searchbartest.JPG)
-to test my buttons i will make sure that i can interact with them.
-
 
 
 # file structure
@@ -156,5 +154,15 @@ My webpage should have a fast and responsive layout that should be clean and qui
 # sway
 https://sway.office.com/vTypuTavjVAqCoFl?ref=Link
 ![image](./swaypdf.PNG)
+## website feedback
+Daine: "it looks good, its easy to navigate and its functional overall, there is nothing i would really change however there isnt any back buttons"
+
+## my website review
+The targeted audience for my website are customers who are interested in buying phones and their accessories.
+
+I think my website has fulfilled its intended purpose because it is a working site with the intended content like phones and accessories for them.
+
+I have acknowledged the feedback and concluded that i do not need to add any back buttons because browsers usualy have them however some customers might be on a browser that does not have any back buttons so I will keep them in mind for the future.
+
 
 
