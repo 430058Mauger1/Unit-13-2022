@@ -157,7 +157,7 @@ https://sway.office.com/vTypuTavjVAqCoFl?ref=Link
 ## website feedback
 Daine: "It looks good, its easy to navigate and its functional overall, there is nothing I would really change however there isnt any back buttons"
 
-Patryk: I like your colour scheme it fits well together, the font is cool and i like the text colour overall i like the colours and icons used however the phone descriptions are too small and the homepage title is too small"
+Patryk: "I like your colour scheme it fits well together, the font is cool and i like the text colour overall i like the colours and icons used however the phone descriptions are too small and the homepage title is too small"
 
 ## my website review
 The targeted audience for my website are customers who are interested in buying phones and their accessories.
@@ -165,6 +165,8 @@ The targeted audience for my website are customers who are interested in buying 
 I think my website has fulfilled its intended purpose because it is a working site with the intended content like phones and accessories for them.
 
 I have acknowledged the feedback and concluded that i do not need to add any back buttons because browsers usualy have them however some customers might be on a browser that does not have any back buttons so I will keep them in mind for the future.
+
+For the phone description I have changed the font size from 8px to 9px I cant go any larger or the text will start to leave the grid. 
 
 
 
