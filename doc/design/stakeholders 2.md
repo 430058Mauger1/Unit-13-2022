@@ -141,7 +141,7 @@ https://www.expansys.com.au/apple-iphone-13-pro-max-361875/
 # test plan
 To test my website i will make sure all my links, Embeded videos, buttons and interactive features work, to do thi once my website has been completed i will use all interactive features an record the result.
 my predicted result will be that everything works as planned.
-i was the only one to test however all reveiwers did test all features in my website.
+I was the only one to test however all reveiwers did test all features in my website.
 
 ## link results
 I tested every link on the home page all work correctly all links to other pages work aswell. all embedded youtube videos work aswell.
