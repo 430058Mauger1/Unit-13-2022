@@ -13,8 +13,9 @@ https://sway.office.com/vTypuTavjVAqCoFl?ref=Link
 + product information
   + phone prices
   + device specifications
-  + recomended phones
-+ easily accessable
+  + recom
+  mended phones
++ easily accessible
 
 
 ## Designers
@@ -30,7 +31,7 @@ https://sway.office.com/vTypuTavjVAqCoFl?ref=Link
 + cheap 
 + needs to look good 
 + professional and functional
-+ genarate business
++ generate business
 
 # Colour schemes
 Color Palette by Paletton.com
@@ -40,7 +41,7 @@ Color Palette by Paletton.com
 
    I have decided to use these colours because they are similar the the owners logo and the owner would like them to look similar.
    
-   I will use the primary and secondary colours in backgrounds in my website, buttons and searchbars.
+   I will use the primary and secondary colours in backgrounds in my website, buttons and search bars.
 
 ## Alternate colour scheme
 Color Palette by Paletton.com
@@ -51,7 +52,7 @@ I decided to use this colour for the alternate website design because I noticed 
 
 # Fonts
 ## Website one
-for website one i have decided to use the Open Sans font because it was optimised for web layouts and mobile interfaces 
+for website one i have decided to use the Open Sans font because it was optimized for web layouts and mobile interfaces 
 i found it on google fonts
 ![image](opensansfont.png)
 
@@ -139,12 +140,12 @@ https://www.expansys.com.au/apple-iphone-13-pro-max-361875/
 | contact us              |   &#9745;   |    x    |    x         |      x             |     x                   |     x  |       x   |    x        |
 
 # test plan
-To test my website i will make sure all my links, Embeded videos, buttons and interactive features work, to do thi once my website has been completed i will use all interactive features an record the result.
+To test my website i will make sure all my links, Embedded videos, buttons and interactive features work, to do thi once my website has been completed i will use all interactive features an record the result.
 my predicted result will be that everything works as planned.
-I was the only one to test however all reveiwers did test all features in my website.
+I was the only one to test however all reviewers did test all features in my website.
 
 ## link results
-I tested every link on the home page all work correctly all links to other pages work aswell. all embedded youtube videos work aswell.
+I tested every link on the home page all work correctly all links to other pages work as well. all embedded youtube videos work as well.
 ## search bar
 to test the search bar i will make sure that you can insert text.
 ![image](./searchbartest.JPG)
@@ -154,7 +155,7 @@ to test the search bar i will make sure that you can insert text.
 ![image](./FileStructuretop.JPG)
 ![image](./filestructurebottom.PNG)
 # webpage requirments
-My webpage should have a fast and responsive layout that should be clean and quick to load because customers forms their opinions whithin the first few seconds. the Navigation needs to be simple and understandable so customers can easily find what they want It's colour scheme needs to fit well together and with the site. My website also needs a grid and a youtube video.
+My webpage should have a fast and responsive layout that should be clean and quick to load because customers forms their opinions within the first few seconds. the Navigation needs to be simple and understandable so customers can easily find what they want It's colour scheme needs to fit well together and with the site. My website also needs a grid and a youtube video.
 # sway
 https://sway.office.com/vTypuTavjVAqCoFl?ref=Link
 ![image](./swaypdf.PNG)
@@ -162,6 +163,8 @@ https://sway.office.com/vTypuTavjVAqCoFl?ref=Link
 Daine: "It looks good, its easy to navigate and its functional overall, there is nothing I would really change however there isnt any back buttons"
 
 Patryk: "I like your colour scheme it fits well together, the font is cool and i like the text colour overall i like the colours and icons used however the phone descriptions are too small and the homepage title is too small"
+
+Ash: it looks nice because of the professional colour scheme and all the phones look nice and well presented as well all the link's work which is really good and so does the navigation. you have a nice variety of phones which is good and the website looks really good
 
 ## my website review
 The targeted audience for my website are customers who are interested in buying phones and their accessories.
