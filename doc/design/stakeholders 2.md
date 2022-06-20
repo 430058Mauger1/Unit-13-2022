@@ -140,40 +140,79 @@ https://www.expansys.com.au/apple-iphone-13-pro-max-361875/
 | contact us              |   &#9745;   |    x    |    x         |      x             |     x                   |     x  |       x   |    x        |
 
 # test plan
-To test my website i will make sure all my links, Embedded videos, buttons and interactive features work, to do thi once my website has been completed i will use all interactive features an record the result.
+To test my website I will make sure all my links, Embedded videos, buttons and interactive features work, to do this once my website has been completed I will use all interactive features and record the result.
+
+I will then use a contrast checker to check my contrast ratio so that people with visual disabilities can see the text.
 my predicted result will be that everything works as planned.
+
+Then I will test how fast my website loads using a stopwatch making sure it loads within two seconds.
 I was the only one to test however all reviewers did test all features in my website.
 
-## link results
-I tested every link on the home page all work correctly all links to other pages work as well. all embedded youtube videos work as well.
-## search bar
-to test the search bar i will make sure that you can insert text.
-![image](./searchbartest.JPG)
+# testing
+# link testing
+firstly I had to test all of the links on my webpage to make sure that you could navigate easily and smoothly through my website. So I went through the homepage clicking each phone, button and icon every link worked.
+# Phones test
+![image](../design/Phones%20test.JPG)
+As predicted each phone link worked as I wanted and took me to their linked pages.
+![image](../design/phone.link.test.JPG)
+# video test
+To test that each of my videos work all I had to do was press play.
+![image](../design/Video.test.JPG)
+All videos worked as predicted and played correctly.
+
+# search bar test
+To test my search bar I had to make sure that you could insert text. To do that all I had to do was click on it and insert some text.
+![image](./Search.test.JPG)
+The result was as predicted the search bar functions as I wanted it to.
+## colour contrast test
+![image](../design/%23000b3a.test.JPG)
+my colour scheme passes with a contrast ratio of 18.93:1 .
+# speed test
+When testing my website using a stopwatch on my phone all pages loaded within one second which is faster than predicted.
 
 
 # file structure
 ![image](./FileStructuretop.JPG)
 ![image](./filestructurebottom.PNG)
+
 # webpage requirments
-My webpage should have a fast and responsive layout that should be clean and quick to load because customers forms their opinions within the first few seconds. the Navigation needs to be simple and understandable so customers can easily find what they want It's colour scheme needs to fit well together and with the site. My website also needs a grid and a youtube video.
+My webpage should have a fast and responsive layout that should be clean and quick to load because customers form their opinions within the first few seconds. 
+
+it needs a working Navigation that is simple and understandable so customers can easily find what they want. 
+
+It's colour scheme needs to fit well together and with the site It also needs a good contrast ratio otherwise people with visual disabilities will have a hard time navigating and using my site. 
+
+My website should also contain a video or other interactive content because 80% of all traffic online is video traffic meaning without this content people will lose interest in my site and the business who hired me could potentially
+lose customers.
 # sway
 https://sway.office.com/vTypuTavjVAqCoFl?ref=Link
 ![image](./swaypdf.PNG)
-## website feedback
-Daine: "It looks good, its easy to navigate and its functional overall, there is nothing I would really change however there isnt any back buttons"
+# website feedback
 
-Patryk: "I like your colour scheme it fits well together, the font is cool and i like the text colour overall i like the colours and icons used however the phone descriptions are too small and the homepage title is too small"
+## Daine: 
+"It looks good, its easy to navigate and its functional overall, there is nothing I would really change however there isn't any back buttons"
 
-Ash: it looks nice because of the professional colour scheme and all the phones look nice and well presented as well all the link's work which is really good and so does the navigation. you have a nice variety of phones which is good and the website looks really good
+## Patryk: 
+"I like your colour scheme it fits well together, the font is cool and i like the text colour overall i like the colours and icons used however the phone descriptions are too small and the homepage title is too small"
+
+## Ash:
+ it looks nice because of the professional colour scheme and all the phones look nice and well presented as well all the link's work which is really good and so does the navigation. you have a nice variety of phones which is good and the website looks really good.
+
+# Feedback review
+## Patryk
+I have changed the phone descriptions so now the grid and text is larger and easier to read.
+
+Before 
+![image](../design/gridbefore.JPG)
+After
+![image](../design/gridafter1.JPG)
 
 ## my website review
-The targeted audience for my website are customers who are interested in buying phones and their accessories.
+The targeted audience for my website is people interested in Mobile phones and their accessories. My websites final design is suitable for the intended audience because it has the necessary content like mobile phones and their accessories, it also has a fast and responsive layout that loads within the first few seconds which I have tested, a simple and easy to use navigation, Its colour scheme has a good contrast ratio, and It contains working videos to keep the attention of the customer. 
 
-I think my website has fulfilled its intended purpose because it is a working site with the intended content like phones and accessories for them.
+it's also suitable because the feedback says "it looks nice because of the professional colour scheme and all the phones look nice and well presented as well all the link's work which is really good and so does the navigation." and "It looks good, its easy to navigate and its functional".
 
-I have acknowledged the feedback and concluded that i do not need to add any back buttons because browsers usualy have them however some customers might be on a browser that does not have any back buttons so I will keep them in mind for the future.
-
-For the phone description I have changed the font size from 8px to 9px I cant go any larger or the text will start to leave the grid. 
+I have acknowledged the feedback and concluded that I do not need to add any back buttons because browsers usually have them however some customers might be on a browser that does not have any back buttons so I will keep them in mind for the future. However, I have made the Phone descriptions and grids larger so that they are easier to read.
 
 
 
