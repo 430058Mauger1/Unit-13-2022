@@ -150,7 +150,10 @@ I was the only one to test however all reviewers did test all features in my web
 
 # testing
 # link testing
-firstly I had to test all of the links on my webpage to make sure that you could navigate easily and smoothly through my website. So I went through the homepage clicking each phone, button and icon every link worked.
+firstly I had to test all of the links on my webpage to make sure that you could navigate easily and smoothly through my website. So I went through the homepage clicking each phone, button and icon every link worked. I tested this because because i had to make sure that it is a functional and that it works properly so that user can navigate through my site without encountering any issues. This is also great because it can highlight that my website is reliable in helping users find the content they want without having any trouble in doing so.
+![image](../design/link.test.PNG)
+
+this is an example of my links.
 # Phones test
 ![image](../design/Phones%20test.JPG)
 As predicted each phone link worked as I wanted and took me to their linked pages.
@@ -158,17 +161,22 @@ As predicted each phone link worked as I wanted and took me to their linked page
 # video test
 To test that each of my videos work all I had to do was press play.
 ![image](../design/Video.test.JPG)
-All videos worked as predicted and played correctly.
+All videos worked as predicted and played correctly. I tested the video to make sure that it not only works properly but also that is an appropriate size and video length so that is accessable to a large veriety of users because i am aware that certain users may have difficulties in veiwing certain content at overwhelmingly small sizes.
 
 # search bar test
-To test my search bar I had to make sure that you could insert text. To do that all I had to do was click on it and insert some text.
+Whilst testing my website i did pick up the fact that my search bar doesn't function yet however to make sure users are aware it doesnt work I made it so that when clicked on it will take the user to anoter webpage with a notification that will make them aware that the search bar hasnt been implemented yet.
+![image](../design/search%20fail..PNG)
+
+you can however write inside the search bar.
 ![image](./Search.test.JPG)
-The result was as predicted the search bar functions as I wanted it to.
 ## colour contrast test
 ![image](../design/%23000b3a.test.JPG)
-my colour scheme passes with a contrast ratio of 18.93:1 .
+I tested this so that my website is accessable to people with sensative eyesight and sot that they can navigate around my page.
+my colour scheme passes with a contrast ratio of 18.93:1.
 # speed test
 When testing my website using a stopwatch on my phone all pages loaded within one second which is faster than predicted.
+
+I tested this so that I know my website has a fast and responsive layout so that when users first see it their opinion is positive.
 
 
 # file structure
@@ -188,7 +196,11 @@ lose customers.
 https://sway.office.com/vTypuTavjVAqCoFl?ref=Link
 ![image](./swaypdf.PNG)
 # website feedback
+# Tutor feedback
+## Nicky
+A very attractive page, easy to navigate around and lots of information about the phones. Nice large text for me to be able to read without my glasses. Good informative links to YouTube videos, would of liked to see a couple of different images of the phones to show the glass fronts and backs but over all I considered this a really nice site.
 
+# Student Feedback
 ## Daine: 
 "It looks good, its easy to navigate and its functional overall, there is nothing I would really change however there isn't any back buttons"
 
@@ -218,10 +230,19 @@ And I have added a transform effect to the icons.
 ![image](../design/fransformeffect.PNG)
 
 
-## my website review
-The targeted audience for my website is people interested in Mobile phones and their accessories. My websites final design is suitable for the intended audience because it has the necessary content like mobile phones and their accessories, it also has a fast and responsive layout that loads within the first few seconds which I have tested, a simple and easy to use navigation which I know I have because Daine said "It looks good, its easy to navigate and its functional", Its colour scheme has a good contrast ratio which I have tested, and It contains working videos to keep the attention of the customer. 
 
-I have acknowledged the feedback and concluded that I do not need to add any back buttons because browsers usually have them however some customers might be on a browser that does not have any back buttons so I will keep them in mind for the future. However, I have made the Phone descriptions and grids larger so that they are easier to read and I have added effects to the phones and icons on the homepage.
+## my website review
+
+
+The targeted audience for my website is people interested in Mobile phones and their accessories. My websites final design is suitable for the intended audience because it has the necessary content like mobile phones and their accessories, it also has a fast and responsive layout that loads within the first few seconds I know this is true because I have tested my site using a stopwatch.
+
+It also has a simple and easy to use navigation confirmed by Daine saying "It looks good, its easy to navigate and its functional" That tells me that all my features work and that my links allow you to correctly navigate my site.
+
+furthermore, Its colour scheme has a good contrast ratio which I have tested using a colour contars checker which means it is accessable to those who have trouble with their eyesigh. 
+
+Finaly, It contains working videos to keep the attention of the customer and it showcases the product that are included in my websites so they have an understanding of the phones and the fact that they are recent phones which is why it is successful at gaining users attention. 
+
+# Improvements
 
 
 
