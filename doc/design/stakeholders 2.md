@@ -214,12 +214,14 @@ After
 ## Mitchell
 I have added hover effects to the phone images on the index page.
 ![image](../design/hovereffect.PNG)
+And I have added a transform effect to the icons.
+![image](../design/fransformeffect.PNG)
 
 
 ## my website review
 The targeted audience for my website is people interested in Mobile phones and their accessories. My websites final design is suitable for the intended audience because it has the necessary content like mobile phones and their accessories, it also has a fast and responsive layout that loads within the first few seconds which I have tested, a simple and easy to use navigation which I know I have because Daine said "It looks good, its easy to navigate and its functional", Its colour scheme has a good contrast ratio which I have tested, and It contains working videos to keep the attention of the customer. 
 
-I have acknowledged the feedback and concluded that I do not need to add any back buttons because browsers usually have them however some customers might be on a browser that does not have any back buttons so I will keep them in mind for the future. However, I have made the Phone descriptions and grids larger so that they are easier to read.
+I have acknowledged the feedback and concluded that I do not need to add any back buttons because browsers usually have them however some customers might be on a browser that does not have any back buttons so I will keep them in mind for the future. However, I have made the Phone descriptions and grids larger so that they are easier to read and I have added effects to the phones and icons on the homepage.
 
 
 
