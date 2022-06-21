@@ -198,6 +198,10 @@ https://sway.office.com/vTypuTavjVAqCoFl?ref=Link
 ## Ash:
  it looks nice because of the professional colour scheme and all the phones look nice and well presented as well all the link's work which is really good and so does the navigation. you have a nice variety of phones which is good and the website looks really good.
 
+ ## Mitchell:
+
+I do approve of the colour scheme and the simple layout of the website because it is easy to navigate through. A decent variety in the phones and accessories you have included. Since the images are the hyperlinks I believe it would be good if you make it so that they have some sort of affect when you hover over them so that people are aware that they are a hyperlink, same goes for the icons underneath. 
+
 # Feedback review
 ## Patryk
 I have changed the phone descriptions so now the grid and text is larger and easier to read.
@@ -206,6 +210,11 @@ Before
 ![image](../design/gridbefore.JPG)
 After
 ![image](../design/gridafter1.JPG)
+
+## Mitchell
+I have added hover effects to the phone images on the index page.
+![image](../design/hovereffect.PNG)
+
 
 ## my website review
 The targeted audience for my website is people interested in Mobile phones and their accessories. My websites final design is suitable for the intended audience because it has the necessary content like mobile phones and their accessories, it also has a fast and responsive layout that loads within the first few seconds which I have tested, a simple and easy to use navigation which I know I have because Daine said "It looks good, its easy to navigate and its functional", Its colour scheme has a good contrast ratio which I have tested, and It contains working videos to keep the attention of the customer. 
