@@ -228,7 +228,7 @@ I have added hover effects to the phone images on the index page.
 ![image](../design/hovereffect.PNG)
 And I have added a transform effect to the icons.
 ![image](../design/fransformeffect.PNG)
-
+## come up with a reason not to add multiple images.
 
 
 ## my website review
@@ -242,7 +242,8 @@ furthermore, Its colour scheme has a good contrast ratio which I have tested usi
 
 Finaly, It contains working videos to keep the attention of the customer and it showcases the product that are included in my websites so they have an understanding of the phones and the fact that they are recent phones which is why it is successful at gaining users attention. 
 
-# Improvements
+# Final website comparison
+My final website has many changes compared to the original design
 
 
 
