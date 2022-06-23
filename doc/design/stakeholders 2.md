@@ -276,7 +276,7 @@ I have added effects to my icons so that when users hover over them they enlarge
 # improvements
 
 ## Improvement one mobile Optimization
-### One improvement I have for my website would be to have it optimized for mobiles and tablets this change would be good because More than 97% of internet traffic comes from mobiles and tablets. This means that by optimizing my site for mobile I would ba making my site more accessible and boosting the chance of a sale.
+### One improvement I have for my website would be to have it optimized for mobiles and tablets this change would be good because More than 97% of internet traffic comes from mobiles and tablets. This means that by optimizing my site for mobile I would ba making my site more accessible boosting the chance of a sale.
 
 ## Improvement two more interactive features
 ### Another improvement would be to have more interactive features. Interactive features make allow users to explore your site making it capture their attention and encourage them to explore my site this will then increase the chances that my site gets sales.
