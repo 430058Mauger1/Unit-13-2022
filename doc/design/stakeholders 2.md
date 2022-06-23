@@ -52,7 +52,7 @@ I decided to use this colour for the alternate website design because I noticed 
 
 # Fonts
 ## Website one
-for website one i have decided to use the Open Sans font because it was optimized for web layouts and mobile interfaces 
+For website one I have decided to use the Open Sans font because it was optimized for web layouts and mobile interfaces 
 i found it on google fonts
 ![image](opensansfont.png)
 
@@ -64,7 +64,7 @@ i found it on google fonts
 website used for phones https://www.techradar.com/uk/news/best-phone
 
 ## Website two
-for website two, i will use Be Vietnam Pro because it is a Neo Grotesk which is well suited to tech companies. i got it from google fonts.
+For website two, I will use Be Vietnam Pro because it is a Neo Grotesk which is well suited to tech companies. I got it from google fonts.
 
 ![image](bevietnamprofont.png)
 
@@ -150,7 +150,8 @@ I was the only one to test however all reviewers did test all features in my web
 
 # testing
 # link testing
-firstly I had to test all of the links on my webpage to make sure that you could navigate easily and smoothly through my website. So I went through the homepage clicking each phone, button and icon every link worked. I tested this because because i had to make sure that it is a functional and that it works properly so that user can navigate through my site without encountering any issues. This is also great because it can highlight that my website is reliable in helping users find the content they want without having any trouble in doing so.
+firstly I had to test all of the links on my webpage to make sure that you could navigate easily and smoothly through my website. So I went through the homepage clicking each phone, button and icon every link worked. I tested this because because I had to make sure that it is a functional and that it works properly so that user can navigate through my site without encountering any issues. This is also great because it can highlight that my website is reliable in helping users find the content they want without having any trouble in doing so.
+
 ![image](../design/link.test.PNG)
 
 this is an example of my links.
@@ -161,17 +162,17 @@ As predicted each phone link worked as I wanted and took me to their linked page
 # video test
 To test that each of my videos work all I had to do was press play.
 ![image](../design/Video.test.JPG)
-All videos worked as predicted and played correctly. I tested the video to make sure that it not only works properly but also that is an appropriate size and video length so that is accessable to a large veriety of users because i am aware that certain users may have difficulties in veiwing certain content at overwhelmingly small sizes.
+All videos worked as predicted and played correctly. I tested the video to make sure that it not only works properly but also that is an appropriate size and video length so that is accessible to a large variety of users because I am aware that certain users may have difficulties in viewing certain content at overwhelmingly small sizes.
 
 # search bar test
-Whilst testing my website i did pick up the fact that my search bar doesn't function yet however to make sure users are aware it doesnt work I made it so that when clicked on it will take the user to anoter webpage with a notification that will make them aware that the search bar hasnt been implemented yet.
+Whilst testing my website i did pick up the fact that my search bar doesn't function yet however to make sure users are aware it doesn't work I made it so that when clicked on it will take the user to another webpage with a notification that will make them aware that the search bar hasn't been implemented yet.
 ![image](../design/search%20fail..PNG)
 
 you can however write inside the search bar.
 ![image](./Search.test.JPG)
 ## colour contrast test
 ![image](../design/%23000b3a.test.JPG)
-I tested this so that my website is accessable to people with sensative eyesight and sot that they can navigate around my page.
+I tested this so that my website is accessible to people with sensitive eyesight and so that they can navigate around my page.
 my colour scheme passes with a contrast ratio of 18.93:1.
 # speed test
 When testing my website using a stopwatch on my phone all pages loaded within one second which is faster than predicted.
@@ -186,7 +187,7 @@ I tested this so that I know my website has a fast and responsive layout so that
 # webpage requirments
 My webpage should have a fast and responsive layout that should be clean and quick to load because customers form their opinions within the first few seconds. 
 
-it needs a working Navigation that is simple and understandable so customers can easily find what they want. 
+It needs a working Navigation that is simple and understandable so customers can easily find what they want. 
 
 It's colour scheme needs to fit well together and with the site It also needs a good contrast ratio otherwise people with visual disabilities will have a hard time navigating and using my site. 
 
@@ -215,35 +216,64 @@ A very attractive page, easy to navigate around and lots of information about th
 I do approve of the colour scheme and the simple layout of the website because it is easy to navigate through. A decent variety in the phones and accessories you have included. Since the images are the hyperlinks I believe it would be good if you make it so that they have some sort of affect when you hover over them so that people are aware that they are a hyperlink, same goes for the icons underneath. 
 
 # Feedback review
-## Patryk
-I have changed the phone descriptions so now the grid and text is larger and easier to read.
+Thanks to the feedback I was able to refine and improve my website in areas to make it more accessible and preform better for users.
 
-Before 
+One way I have accomplished this is by changing the phone descriptions so That the grid and text is larger and easier to read This makes it more accessible for people with poor eyesight to read and know what they are looking at on my sight.
+
+## Before 
 ![image](../design/gridbefore.JPG)
-After
+## After
 ![image](../design/gridafter1.JPG)
 
-## Mitchell
-I have added hover effects to the phone images on the index page.
-![image](../design/hovereffect.PNG)
-And I have added a transform effect to the icons.
-![image](../design/fransformeffect.PNG)
-## come up with a reason not to add multiple images.
+Another way I is by adding hover effects to the phone images on the index page And by adding transform effects to the icons.
+This makes it easier for users to see that they are links as well as makes it easier for people with poor eyesight to see them.
 
+![image](../design/hovereffect.PNG)
+
+![image](../design/fransformeffect.PNG)
+
+Finally I added back buttons on the phones and accessories page and all accessories and phones which makes my website easier for users to navigate through and it makes navigating through my website faster and speed up the process.
+
+![image](../design/back.button.PNG)
 
 ## my website review
 
 
 The targeted audience for my website is people interested in Mobile phones and their accessories. My websites final design is suitable for the intended audience because it has the necessary content like mobile phones and their accessories, it also has a fast and responsive layout that loads within the first few seconds I know this is true because I have tested my site using a stopwatch.
 
-It also has a simple and easy to use navigation confirmed by Daine saying "It looks good, its easy to navigate and its functional" That tells me that all my features work and that my links allow you to correctly navigate my site.
+It also has a simple and easy to use navigation confirmed by Daine saying "It looks good, its easy to navigate and its functional" and Nicky saying "easy to navigate around" which tells me that all my features work and that my links allow you to correctly navigate through my site.
 
-furthermore, Its colour scheme has a good contrast ratio which I have tested using a colour contars checker which means it is accessable to those who have trouble with their eyesigh. 
+furthermore, Its colour scheme has a good contrast ratio which I have tested using a colour contrast checker which means it is accessible to those who have trouble with their eyesight. And Nicky saying "Nice large text for me to be able to read without my glasses" which tells me the text is large enough for users with poor eyesight to see. 
 
-Finaly, It contains working videos to keep the attention of the customer and it showcases the product that are included in my websites so they have an understanding of the phones and the fact that they are recent phones which is why it is successful at gaining users attention. 
+Finally, It contains working videos to keep the attention of the customer and it showcases the product that are included in my websites so they have an understanding of the phones and the fact that they are recent phones which is why it is successful at gaining users attention. 
 
-# Final website comparison
-My final website has many changes compared to the original design
+# evaluation
+
+# Changes made
+## Grids and text change
+I changed the text from 8px to 20px so it was easier to see. In my opinion This was a good change because it has made it more accessible for those with poor eyesight of other visual disabilities I also changed the grid size from 700px to 900px so that the descriptions stayed inside the grids.
+
+## Back buttons
+for this change I added back buttons to my phones and accessories page and to each individual phone and accessory This makes it better than my original design because it makes it easier to navigate through my site and thus keeping it simple and understandable for users.
+
+## Phone effects
+I added hover effects to my Phones to make it clear that they are links this change makes it better than my original design because it makes my content easier to find and better looking aesthetically.
+
+## Icon effects
+I have added effects to my icons so that when users hover over them they enlarge by 1.5 times this is a good change because it gives my site more interactivity and keeps the user more engaged with my site and increasing the chance of a sale.
+
+# improvements
+
+## Improvement one mobile Optimization
+### One improvement I have for my website would be to have it optimized for mobiles and tablets this change would be good because More than 97% of internet traffic comes from mobiles and tablets. This means that by optimizing my site for mobile I would ba making my site more accessible and boosting the chance of a sale.
+
+## Improvement two more interactive features
+### Another improvement would be to have more interactive features. Interactive features make allow users to explore your site making it capture their attention and encourage them to explore my site this will then increase the chances that my site gets sales.
+
+## Improvement  three search bar
+### Another improvement would be to add a working search bar I could not add a working search bar because I did not know how It would have been a good improvement because it would have allowed my customers to find what they wanted quicker this would have increased the chance of a sale.
+
+
 
 
 
