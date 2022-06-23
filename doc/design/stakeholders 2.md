@@ -248,7 +248,7 @@ Finally I added back buttons on the phones and accessories page and all accessor
 ## Nicky
 My tutor also said that it would be better with multiple images for the phones I could have achieved this by using a carousel and having the phone images in the carousel This would have been a good idea because interactive features like this capture the the users attention so I will add this feature to the next version of my website.
 
-## my website review
+# my website review
 
 
 The targeted audience for my website is people interested in Mobile phones and their accessories. My websites final design is suitable for the intended audience because it has the necessary content like mobile phones and their accessories, it also has a fast and responsive layout that loads within the first few seconds I know this is true because I have tested my site using a stopwatch this is good because it is part of the user requirements.
