@@ -248,7 +248,7 @@ The targeted audience for my website is people interested in Mobile phones and t
 
 My website also has a simple and easy to use navigation which is required by the user requirements. I know my website has this because it is confirmed by Daine saying "It looks good, its easy to navigate and its functional" and Nicky saying "easy to navigate around" which tells me that all my features work and that my links allow you to correctly navigate through my site.
 
-furthermore, my website is needs to be accessible. so Its colour scheme has a good contrast ratio so that it is accessible to those who have trouble with their eyesight. I know my site has this because I have tested it using a colour contrast checker. To make my site more accessible it also need large enough text so that people with bad eyesight can read it my website has achieved this because Nicky said that it has "Nice large text for me to be able to read without my glasses" which tells me the text is large enough for users with poor eyesight to see. 
+furthermore, my website is accessible because Its colour scheme has a good contrast ratio so that it is accessible to those who have trouble with their eyesight. I know my site has this because I have tested it using a colour contrast checker. To make my site more accessible it also need large enough text so that people with bad eyesight can read it my website has achieved this because Nicky said that it has "Nice large text for me to be able to read without my glasses" which tells me the text is large enough for users with poor eyesight to see. 
 
 Finally, It contains working videos to keep the attention of the customer and it showcases the product that are included in my websites so they have an understanding of the phones and the fact that they are recent phones which is why it is successful at gaining users attention. 
 
@@ -256,13 +256,13 @@ Finally, It contains working videos to keep the attention of the customer and it
 
 # Changes made
 ## Grids and text change
-I changed the text from 8px to 20px so it was easier to see. In my opinion This was a good change because it has made it more accessible for those with poor eyesight of other visual disabilities I also changed the grid size from 700px to 900px so that the descriptions stayed inside the grids.
+I changed the text from 8px to 20px so it was easier to see. In my opinion This change was better than the original design because it has made it more accessible for those with poor eyesight of other visual disabilities I also changed the grid size from 700px to 900px so that the descriptions stayed inside the grids.
 
 ## Back buttons
-for this change I added back buttons to my phones and accessories page and to each individual phone and accessory This makes it better than my original design because it makes it easier to navigate through my site and thus keeping it simple and understandable for users.
+For this change I added back buttons to my phones and accessories page and to each individual phone and accessory This makes it better than my original design because it makes it easier to navigate through my site and thus keeping it simple and understandable for users.
 
 ## Phone effects
-I added hover effects to my Phones to make it clear that they are links this change makes it better than my original design because it makes my content easier to find and better looking aesthetically.
+I added hover effects to my Phones to make it clear that they are links this change makes it better than my original design because it makes my content easier to find and better looking aesthetically it also makes it easier to see that they are links making it more accessible.
 
 ## Icon effects
 I have added effects to my icons so that when users hover over them they enlarge by 1.5 times this is a good change because it gives my site more interactivity and keeps the user more engaged with my site and increasing the chance of a sale.
