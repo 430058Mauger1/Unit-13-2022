@@ -229,9 +229,15 @@ One way I have accomplished this is by changing the phone descriptions so That t
 ## Mitchell
 Another way I is by adding hover effects to the phone images on the index page And by adding transform effects to the icons.
 This makes it easier for users to see that they are links as well as makes it easier for people with poor eyesight to see them making it more accessible. I know these features work because I have tested them.
-
+## Before
+![image](../design/phonebefore.JPG)
+## After
 ![image](../design/hovereffect.PNG)
 
+## Before
+![image](../design/iconsbefore.JPG)
+
+## After
 ![image](../design/fransformeffect.PNG)
 
 ## Daine
