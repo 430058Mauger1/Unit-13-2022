@@ -216,7 +216,7 @@ A very attractive page, easy to navigate around and lots of information about th
 I do approve of the colour scheme and the simple layout of the website because it is easy to navigate through. A decent variety in the phones and accessories you have included. Since the images are the hyperlinks I believe it would be good if you make it so that they have some sort of affect when you hover over them so that people are aware that they are a hyperlink, same goes for the icons underneath. 
 
 # Feedback review
-Thanks to the feedback I was able to refine and improve my website in areas to make it more accessible and preform better for users.
+Thanks to the feedback I was able to refine and improve my website in areas to make it more accessible and preform better for users Using the feedback from my tutor and peers.
 
 One way I have accomplished this is by changing the phone descriptions so That the grid and text is larger and easier to read This makes it more accessible for people with poor eyesight to read and know what they are looking at on my sight.
 
@@ -235,6 +235,8 @@ This makes it easier for users to see that they are links as well as makes it ea
 Finally I added back buttons on the phones and accessories page and all accessories and phones which makes my website easier for users to navigate through and it makes navigating through my website faster and speed up the process.
 
 ![image](../design/back.button.PNG)
+
+My tutor also said that it would be better with multiple images for the phones I could have achieved this by using a carousel and having the phone images in the carousel This Is a good idea and I will add this feature to the next version of my website.
 
 ## my website review
 
