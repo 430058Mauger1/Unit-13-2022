@@ -218,34 +218,37 @@ I do approve of the colour scheme and the simple layout of the website because i
 # Feedback review
 Thanks to the feedback I was able to refine and improve my website in areas to make it more accessible and preform better for users Using the feedback from my tutor and peers.
 
-One way I have accomplished this is by changing the phone descriptions so That the grid and text is larger and easier to read This makes it more accessible for people with poor eyesight to read and know what they are looking at on my sight.
+## Patryk feedback
+One way I have accomplished this is by changing the phone descriptions so That the grid and text is larger and easier to read This makes it more accessible for people with poor eyesight to read and know what they are looking at on my sight. I know it accomplishes this because my tutor said "Nice large text for me to be able to read without my glasses".
 
 ## Before 
 ![image](../design/gridbefore.JPG)
 ## After
 ![image](../design/gridafter1.JPG)
 
+## Mitchell
 Another way I is by adding hover effects to the phone images on the index page And by adding transform effects to the icons.
-This makes it easier for users to see that they are links as well as makes it easier for people with poor eyesight to see them.
+This makes it easier for users to see that they are links as well as makes it easier for people with poor eyesight to see them making it more accessible. I know these features work because I have tested them.
 
 ![image](../design/hovereffect.PNG)
 
 ![image](../design/fransformeffect.PNG)
 
-Finally I added back buttons on the phones and accessories page and all accessories and phones which makes my website easier for users to navigate through and it makes navigating through my website faster and speed up the process.
+## Daine
+Finally I added back buttons on the phones and accessories page and all accessories and phones which makes my website easier for users to navigate through and it makes navigating through my website faster and speed up the process it also makes navigating my website easier to understand.
 
 ![image](../design/back.button.PNG)
 
-My tutor also said that it would be better with multiple images for the phones I could have achieved this by using a carousel and having the phone images in the carousel This Is a good idea and I will add this feature to the next version of my website.
+My tutor also said that it would be better with multiple images for the phones I could have achieved this by using a carousel and having the phone images in the carousel This would have been a good idea because interactive features like this capture the the users attention so I will add this feature to the next version of my website.
 
 ## my website review
 
 
-The targeted audience for my website is people interested in Mobile phones and their accessories. My websites final design is suitable for the intended audience because it has the necessary content like mobile phones and their accessories, it also has a fast and responsive layout that loads within the first few seconds I know this is true because I have tested my site using a stopwatch.
+The targeted audience for my website is people interested in Mobile phones and their accessories. My websites final design is suitable for the intended audience because it has the necessary content like mobile phones and their accessories, it also has a fast and responsive layout that loads within the first few seconds I know this is true because I have tested my site using a stopwatch this is good because it is part of the user requirements.
 
-It also has a simple and easy to use navigation confirmed by Daine saying "It looks good, its easy to navigate and its functional" and Nicky saying "easy to navigate around" which tells me that all my features work and that my links allow you to correctly navigate through my site.
+The user requirements also says my websites also needs a simple and easy to use navigation. I know my website has this because it is confirmed by Daine saying "It looks good, its easy to navigate and its functional" and Nicky saying "easy to navigate around" which tells me that all my features work and that my links allow you to correctly navigate through my site.
 
-furthermore, Its colour scheme has a good contrast ratio which I have tested using a colour contrast checker which means it is accessible to those who have trouble with their eyesight. And Nicky saying "Nice large text for me to be able to read without my glasses" which tells me the text is large enough for users with poor eyesight to see. 
+furthermore, my website is needs to be accessible. so Its colour scheme has a good contrast ratio so that it is accessible to those who have trouble with their eyesight. I know my site has this because I have tested it using a colour contrast checker. To make my site more accessible it also need large enough text so that people with bad eyesight can read it my website has achieved this because Nicky said that it has "Nice large text for me to be able to read without my glasses" which tells me the text is large enough for users with poor eyesight to see. 
 
 Finally, It contains working videos to keep the attention of the customer and it showcases the product that are included in my websites so they have an understanding of the phones and the fact that they are recent phones which is why it is successful at gaining users attention. 
 
